@@ -1,5 +1,5 @@
 //imoprting dependencies
-const Joi = require('Joi');
+const Joi = require('joi'); // changed from require('Joi')
 const express = require('express');
 
 //making a object of Express
